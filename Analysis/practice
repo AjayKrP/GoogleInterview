@@ -1,0 +1,328 @@
+1. Sliding window problems
+2. Two Pointers
+3. Matrix variant => finding max area/finding/rectangle/finding histogram area/word finding
+4. Prefix Sum/Kadane's algorithms
+5. Graph => (BFS/DFS using Adj Matrix & list)/Problems on shortest path using (BellmanFord/Djkastras),all pair shotest path
+6. Tree => Finding height/pathsum/BFS/DFS
+7. Stack - Min stack/Monolithic stack
+8. Queue ->
+9. Backtracking - permutations/combinations/finding different sub problems
+10. Interval Scheduling
+11. Flood fill algorithms
+12. Shuffle Algorithms
+13. Subsequence Problem
+14. Union Find
+
+============Job===========
+VanHack
+Turing
+==========================
+
+Python:
+Lists, arrays, strings, stacks, queues, hash tables, sets.
+
+
+Question Solving Order
+1. Depth-First Search (50 problems)
+2. Breadth-First Search (30)
+3. Tree (60)
+4. Topological Sort (5)
+5. Trie (11)
+6. Backtracking (30)
+7. Heap, Stack, Graph, Bit Manipulation, Binary Search, Two Pointers, Linked List, Math (~10 problems each)
+8. String (27)
+9. Array (40)
+10. Dynamic Programming (40)
+
+
+https://medium.com/@jameslu123/software-engineer-job-hunt-tips-tricks-and-hacks-to-land-the-next-job-e46db1a98670
+http://staff.ustc.edu.cn/~csli/graduate/algorithms/book6/chap23.htm
+https://www.freecodecamp.org/news/systems-design-for-interviews/#section-10-polling-streaming-sockets
+https://wentao-shao.gitbook.io/leetcode/toposort/topological-sorting
+https://www.youtube.com/watch?v=R8omJm-Wl34
+
+http://algo2.iti.kit.edu/sanders/courses/algdat03/sol3.pdf
+http://people.cs.uchicago.edu/~pff/27200/practice.pdf
+http://www.cse.yorku.ca/~andy/pubs/X+Y.pdf
+
+
+========================================================
+
+Inorder/Preorder/Postorder Traversals - done
+Binary tree from Inorder and Preorder
+Level Order - done
+Top View - done
+Right View - done
+Left View - done
+Balanced Binary Tree - done
+Identical Binary Trees - done
+Odd and Even Levels - done
+Sorted Array to Balanced BST - done
+Valid Binary Search Tree - done
+Largest BST Subtree - locked
+Kth smallest element in BST - done
+Common Nodes in Two BST
+BST nodes in a range - done
+Check for BST with One Child
+Least Common Ancestor - done
+Invert Binary Tree - done
+Equal Tree Partition - vvip
+Sum binary tree or not
+Path Sum - done
+Recover Binary Search Tree- done
+Diameter of binary tree - done
+Next Pointer Binary Tree
+Flatten Binary Tree to Linked List - done
+Symmetric Binary Tree - done
+2-Sum Binary Tree - done
+Distance between Nodes of BST - doubt
+Binary tree to Circular Doubly Linked List
+
+
+Red Black + AVL + B Tree + B+ Tree + A* search
+https://www.geeksforgeeks.org/a-search-algorithm/
+Threaded Binary Tree
+https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/
+
+========================================================
+Heaps:
+Connect Ropes - doubt
+Maximum Array Sum After B Negations - done
+Product of 3 - done
+Magician and Chocolates - done
+B Closest Points to Origin - done
+B-th Smallest Prime Fraction - Time Limit Exceeded PQ, done with heapq
+Kth Smallest Element in a Sorted Matrix - done
+Misha and Candies - doubt
+Ways to form Max Heap
+Merge K Sorted Lists - done
+K Places Apart - doubt
+Ath largest element
+Running Median
+Ways to form Max Heap 2
+N max pair combinations - time limit exceeded
+Minimum largest element - done
+Special Median
+Last Stone Weight - done
+Path With Minimum Effort -
+
+
+https://leetcode.com/problems/implement-magic-dictionary/discuss/1577539/Python-Simple-Trie-%2B-DFS-Recursive-Solution-with-Explanation
+========================================================
+Trie:
+Shortest Unique Prefix - done
+Spelling Checker - done
+Maximum XOR - done VVIP
+Maximum XOR Subarray
+Modified Search - done
+Contact Finder - with the help of frequency
+XOR TRIPLETS
+Subarrays Xor Less Than B
+
+========================================================
+Graph
+Path in Directed Graph - done
+Number of islands - done
+Rotten Oranges - done
+Valid Path
+First Depth First Search
+Clone Graph - done
+Black Shapes - done Same As Number of island
+Distance of nearest cell - done
+Capture Regions on Board - done
+Cycle in Directed Graph - done
+Coloring a Cycle Graph - done
+Check whether the graph is bipartite or not
+Construct Roads
+
+Topological Sort - done
+Poisonous Graph
+Make Circle
+Possibility of Finishing
+Minimum Weighted Cycle
+Another BFS
+Dijsktra - done
+Shortest Distance in a Maze
+Floyd Warshall Algorithm
+Maximum Depth
+Largest Distance between nodes of a Tree
+Smallest sequence with given Primes
+Sheldon and Pair of Cities
+Batches
+Edge in MST
+Commutable Islands
+Matrix and Absolute Difference
+Gym Trainer
+Damaged Roads
+Construction Cost
+Good Graph
+
+
+New
+Shortest Path to Get Food
+Minimum operations to remove adjacent ones in matrix
+========================================================
+
+https://leetcode.com/discuss/study-guide/1333049/collections-of-string-questions-pattern-for-upcoming-placement-2021
+
+
+https://medium.com/@rachit138/how-i-cleared-the-amazon-sde-2-interview-f82a33706ff4
+https://levelup.gitconnected.com/how-node-js-works-a-look-behind-the-scenes-149b0fccba92
+
+
+https://leetcode.com/discuss/study-guide/1688903/solved-all-two-pointers-problems-in-100-days
+
+Microsoft Interview Questions - https://leetcode.com/list/98wuta43/
+https://leetcode.com/discuss/interview-question/398023/Microsoft-Online-Assessment-Questions
+
+
+https://medium.com/interviewnoodle/data-structures-and-algorithms-in-real-life-6b2b813d516e
+
+
+https://www.geeksforgeeks.org/design-bookmyshow-a-system-design-interview-question/
+https://www.youtube.com/watch?v=6UAlDIzqhBo
+
+
+https://www.javatpoint.com/daa-rabin-karp-algorithm
+
+
+Nginx Configuration
+https://gist.github.com/bradtraversy/cd90d1ed3c462fe3bddd11bf8953a896
+Installing Certbot
+https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04
+
+
+
+https://medium.com/@nhudinhtuan/15-days-cheat-sheet-for-hacking-technical-interviews-at-big-tech-companies-d780717dcec1
+
+
+
+https://www.themuse.com/jobs/autodesk/software-engineering-manager-c7aefd
+
+https://www.interviewbit.com/blog/node-js-projects/
+
+
+https://akshay-iyangar.github.io/system-design/
+
+
+Resume
+https://www.techinterviewhandbook.org/resume/write-effective-content
+
+https://leetcode.com/discuss/career/1796289/List-Of-Start-up-Companies-with-Compensation-for-SDE-1
+Slack
+VMWare
+Indeed
+Github
+Atlassian
+Confluent
+BrowserStack
+Twitter
+Intuit
+linkedIn
+Adobe
+Graviton
+Quadeye , Quantbox , Plutus , Apt portfolio , Millenium Management
+
+
+
+https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
+https://leetcode.com/list/xi4ci4ig/
+
+
+https://medium.com/@nazmus20000/guideline-for-faang-d9c2502d4af4
+
+
+
+https://leetcode.com/problems/maximum-profit-in-job-scheduling/submissions/
+https://leetcode.com/problems/maximum-earnings-from-taxi/
+https://leetcode.com/problems/two-best-non-overlapping-events/
+https://leetcode.com/problems/burst-balloons/
+https://leetcode.com/problems/https://leetcode.com/discuss/interview-question/1164255/swiggy-online-assessment-questionminimum-number-of-arrows-to-burst-balloons/
+https://leetcode.com/problems/cherry-pickup/
+https://leetcode.com/discuss/interview-question/1508874/swiggy-sde2-hackerrank-set-4
+https://leetcode.com/discuss/interview-question/1164255/swiggy-online-assessment-question
+https://leetcode.com/discuss/interview-question/1415530/swiggy-online-assessment-questions-sde-ii
+https://leetcode.com/discuss/interview-question/1415530/swiggy-online-assessment-question-sde-ii
+https://leetcode.com/discuss/interview-question/307731/Swiggy-online-assessment-Check-Express
+https://leetcode.com/discuss/interview-experience/1478838/swiggy-sde-1-backend-bangalore-september-2021-offer
+First one was simple sorting. ( Variation of Best time to buy stock)
+Second one was a variation of union find algorithm.
+
+a) Tail recursion for Fibonacci – https://www.geeksforgeeks.org/tail-recursion/
+b) https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/
+c) Sorted Array, count frequency of all numbers in less than O(n)
+d) Longest Palindromic Substring
+
+https://leetcode.com/discuss/interview-question/system-design/1222917/Swiggy-or-Machine-Coding-Round-or-SDE-2-or-Navigation-Alerts-System
+https://math.stackexchange.com/questions/274712/calculate-on-which-side-of-a-straight-line-is-a-given-point-located
+Design notification system
+Inventory management, design, scaling etc
+Design a Parking Lot with various conditions.
+Design an employee information system. Implement a code for the same.
+design ola cabs timing app
+LLD design splitwise
+Design Movie Ticket Booking system (Low level design, entities, database, services)
+Given a map and multiple locations from where an order has to be procured , Delivery executive location and customer location, how would you find the best path.
+How would you design a chat application (Backend)
+
+https://github.com/iqblmoh/machineCoding/tree/master/onlineFoodOrdering
+https://akshay-iyangar.github.io/system-design/
+
+
+
+- Smallest subarray with sum greater than a given value
+- Median in a stream of integers (running integers)
+- Find the smallest positive number missing from an unsorted array
+- Design stack overflow (db entities)
+disjoin union find
+leetcode easy-medium
+Check if a given array is monotonous?
+Find kth largest in a BST?
+Find frequency of elements in an array in n time and 1 space
+How does the insertion of an element into an AVL tree work, give algorithm and code on paper, there were few other questions on web dev which i was not familiar with.
+Find heavier ball from 8 balls
+
+
+
+====================== Swiggy Coding Questions =======================
+https://www.geeksforgeeks.org/swiggy-interview-experience-set-3-sde-2/
+https://leetcode.com/discuss/interview-experience/1606460/swiggy-sde-2-sept-2021-offer
+https://www.geeksforgeeks.org/swiggy-interview-experience-sde-2/
+https://www.geeksforgeeks.org/swiggy-interview-experience-set-2-on-campus/
+
+1. Insert operation in a balanced binary tree
+2. https://leetcode.com/problems/number-of-provinces/ - Apply DFS
+3. Tail recursion for Fibonacci – https://www.geeksforgeeks.org/tail-recursion/
+4. https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/ - traverse both linked list
+5. Sorted Array, count frequency of all numbers in less than O(n) - left & right boundary
+6. Longest Palindromic Substring - expand over middle
+   https://youtu.be/XYQecbcd6_c
+7. Graphs - Return the area of the biggest island. (Modification of - find the number of islands) - Count total number of 1s
+8. Stack - Calculate the sum of minimums of all possible sub-arrays. - apply backtracking
+9. Find next greater element in an array (https://www.geeksforgeeks.org/next-greater-element/) - apply monolithic stack
+10. Check if Binary Tree is a balanced BST - check height of every node in BST if its less than or equal to 1 then its Balanced BST
+11. Rain trapping problem (https://www.geeksforgeeks.org/trapping-rain-water/)
+12. https://www.geeksforgeeks.org/stock-buy-sell/
+13. Find Triplet in an array with a given sum
+14. Two number a, b given. divide the a/b and tell whether the result is a repeating number or not repeating. e.g 1/3 = 0.33333 which is repeating. or 4/22=0.1818181 . this is a repeating number also.
+
+
+Tree -> Graph > Stack > LinkedList -> Array -> String
+
+Need to watch Youtube Tutorial
+
+Reverse LinkedLIst II
+Copy lInkedList with Random Pointer
+Linked List Cycle II
+Insertion Sort List
+Split LinkedList Into Parts
+Sort List
+
+
+Product of array except self
+Top K frequent element
+
+
+Smallest Subtree with all the Deepest Nodes
+Create Binary Tree from descriptions
+

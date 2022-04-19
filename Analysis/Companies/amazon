@@ -1,0 +1,98 @@
+https://leetcode.com/discuss/interview-experience/1149636/Amazon-LPs-Compiled
+
+https://www.interviewbit.com/blog/node-js-projects/
+
+
+https://leetcode.com/discuss/interview-question/1863161/all-important-links-from-leetcode-to-become-master-in-data-structure-and-algorithms-dsa-sheets
+
+https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0
+
+1. Hotel Management/Booking System
+2. Parking Lot System Design
+3. Movie Ticket Booking System
+4. Chat System
+5. News feed System
+6. Tiny Url + Unique Id Generator System
+7. File system design
+7. Design a file sharing system with Version control of files
+8. Design UBER service
+9. Design Movie review System.
+
+Design a snake and ladder software board game
+
+https://medium.com/@iorilan/after-solved-1000-leetcode-medium-level-i-found-these-patterns-dynamic-programming-205226223f4e
+https://iorilan.medium.com/after-finished-1000-leetcode-medium-level-i-found-some-patterns-dfs-77e584425474
+
+
+1. https://leetcode.com/discuss/interview-question/846585/amazon-online-assessment-question-1
+2. https://leetcode.com/discuss/interview-question/844979/amazon-online-assessment-question-2
+3. https://leetcode.com/problems/sentence-similarity-ii/
+4. https://leetcode.com/problems/maximum-product-subarray/
+5. https://leetcode.com/problems/decode-ways/
+6. https://leetcode.com/problems/surrounded-regions/
+7. Zig zag traversal of tree.
+8. Find the missing positive integer from an array given array of +ve and -ves
+9. https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+10. https://leetcode.com/problems/campus-bikes/
+11. Search a word inside a given matrix, similar to Leetcode: word search
+12. Gas station problem: Leetcode - Gas Station
+13. Connect the nodes at the same level, similar to Leetcode - Populating Next Right Pointers in Each Node
+14. Compute the size of the largest island in the given matrix where 0 represents sea and 1 represents land.
+15. Similar to https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
+16. You are a in-flight movie service provider. You are given a list of movie lengths and the duration of
+the flight. Return a pair of (2) movies whose combined length is the highest and is less than or equal to
+flight duration. If multiple such combinations are possible, return the pair which has the movie of longer
+ longest duration.
+Ex :
+MovieLenghts : {27, 1,10, 39, 12, 52, 32, 67, 76}
+Flight Duration : 77.
+The 2 possible pairs are (1,76) and (10,67), The answer is (1,76) as per the last constraint.
+17. You are given a list of pairs of items(strings) where each pair is an association. Return
+  the association group with the highest number of elements. If two groups have the same size,
+   return the group that has the lexological smallest element between these 2. Also while returning
+   the group, return it in a lexological sorted order.
+Sample Input : {{Item0,Item1}, {Item2, Item3}, {Item0, Item4}}
+18. Min cost to join ropes of given lengths
+19. Similar to BFS in a matrix.
+20. Flight Media - basically two sums, but you had to account for multiple pairs that could add up to the target
+21. Subscriber Groups - similar to https://leetcode.com/problems/number-of-provinces/, find the number of unique friend groups
+22. https://leetcode.com/discuss/interview-question/1148760/items-in-containers-amazon-oa
+* and | problem. Given a string with * and | and 2 arrays of startIndices and endIndices, output an array of the number of compartments (between 2 sticks)
+*|**| has 1 compartment with 2 *.
+Doable in O(N) time.
+23. Given a string s, and a const k, return all substrings of length k such that there are k-1 distinct characters in each substring.
+
+https://www.practiceaptitudetests.com/top-employer-profiles/amazon-assessments/#:~:text=Amazon%20Assessment%20Tests&text=The%20Amazon%20assessment%20test%20is,and%20the%20Amazon%20Versant%20Test.
+
+
+https://po-jen-lai.gitbook.io/coding-practice-google-high-freq/amazon/oa/top-n-competitors
+
+Robot Bounded in Box
+Number Game
+Find All Combination of Numbers Sum to Target / Shopping Options
+Fill the Truck
+Music Pairs
+Slowest key
+Five Star Seller
+Split String Into Unique Primes
+Storage Optimization
+Minimum Difficulty of a Job Schedule
+Autoscale Policy, Utilization Check
+Optimal Utilization
+Merge Two Sorted Lists
+Two Sum Unique Pairs
+Shopping Patterns
+Reorder Data in Log Files
+Top K Frequent Words
+Trees Height
+Counting Binary Substrings Amazon OA Solution
+Grid Connections Amazon OA Solution
+Shipment Imbalance Amazon OA Solution
+Max Profit Amazon OA Solution
+Find Lowest Price Amazon OA Solution
+Simple Cipher Amazon OA Solution
+Decode String Frequency Amazon OA Solution
+Valid Discount Coupons Amazon OA Solution
+Count Maximum Teams Amazon OA Solution
+Minimum Coin Flips Amazon OA Solution
+
